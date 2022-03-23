@@ -1,10 +1,7 @@
+
 ### arama147's profile
 
 HN:アーガマ/argama147
-
-### Twitter
-
-[@argama147](https://twitter.com/argama147)
 
 ### アーガマの略歴
 
@@ -12,10 +9,17 @@ HN:アーガマ/argama147
 * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
 * YouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」でQtやAndroidを中心にプログラミングに関する情報を発信中。
 
+### [YouTubeチャンネル：ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
+
+[![](https://img.youtube.com/vi/y_vrANENcvI/0.jpg)](https://www.youtube.com/watch?v=y_vrANENcvI)
+
+### Twitter
+
+[@argama147](https://twitter.com/argama147)
+
 ### argama147の商業本
 * [Qt5／Qt6入門 C++編](https://amzn.to/3sd2ONd)
 * [ライブラリを作ろう](https://amzn.to/3uk3Sl6)
-
 
 ### argama147（エゥーゴ）の技術同人誌
 
