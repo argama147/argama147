@@ -11,6 +11,7 @@
 ### [YouTubeチャンネル](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
 
 [![ゼッツプログラTV](https://user-images.githubusercontent.com/5881452/159637360-ab2106c8-bb1e-4b5e-8cdd-26d2f8751c1a.png)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
+[ゼッツプログラTVのリポジトリ](https://github.com/argama147/zetprogratv)
 
 ### Twitter
 
