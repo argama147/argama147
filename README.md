@@ -18,8 +18,12 @@ HN:アーガマ/argama147
 [@argama147](https://twitter.com/argama147)
 
 ### argama147の商業本
-* [Qt5／Qt6入門 C++編](https://amzn.to/3sd2ONd)
-* [ライブラリを作ろう](https://amzn.to/3uk3Sl6)
+
+* [Qt5／Qt6入門 C++編](https://amzn.to/3sd2ONd) ／ [サポートページ](https://github.com/argama147/qt5qt6cppbook) 
+<img src="https://user-images.githubusercontent.com/5881452/151079667-3a0f5009-4284-47fe-9fe9-1c00dddfd232.png" width="320px">
+
+* [ライブラリを作ろう](https://amzn.to/3uk3Sl6) ／ [サポートページ](https://github.com/argama147/lets_make_library)
+<img src="https://user-images.githubusercontent.com/5881452/99791975-c4e78600-2b69-11eb-8e48-6a2bc8281ce3.jpg" width="320px">
 
 ### argama147（エゥーゴ）の技術同人誌
 
