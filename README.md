@@ -20,8 +20,8 @@
 
 <img src="https://user-images.githubusercontent.com/5881452/151079667-3a0f5009-4284-47fe-9fe9-1c00dddfd232.png" height="400px"> <img src="https://user-images.githubusercontent.com/5881452/99791975-c4e78600-2b69-11eb-8e48-6a2bc8281ce3.jpg" height="400px">
 
-* [Qt5／Qt6入門 C++編のサポートページ](https://github.com/argama147/qt5qt6cppbook) 
-* [ライブラリを作ろうサポートページ](https://github.com/argama147/lets_make_library)
+* [商業版Qt5／Qt6入門 C++編のサポートページ](https://github.com/argama147/qt5qt6cppbook) 
+* [商業版ライブラリを作ろうのサポートページ](https://github.com/argama147/lets_make_library)
 
 ### エゥーゴの技術同人誌を扱っているサイト
 
