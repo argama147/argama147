@@ -40,3 +40,6 @@
 * [Amazon](https://www.amazon.co.jp/s?i=digital-text&rh=p_27%3Aargama147&s=relevancerank&text=argama147&ref=dp_byline_sr_ebooks_1)
 * [とらのあな](https://ecs.toranoana.jp/tora/ec/cot/circle/2UPA2C6Q8V7Md06Pd687/all/)
 * [BOOK WALKER](https://bookwalker.jp/author/139363/)
+
+### Amazonアソシエイトについて
+当サイト「ゼッツプログラTV」はAmazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、Amazonアソシエイト・プログラムの参加者です。
