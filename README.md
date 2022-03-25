@@ -17,7 +17,7 @@
 
 ### argama147の商業本
 
-[![商業版Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159817378-ae782791-4833-463f-8398-3841e46a07ec.png)](https://amzn.to/3sd2ONd) [![商業版ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818201-6de5bf70-9815-4917-b5ca-f25227aac888.png)](https://amzn.to/3uk3Sl6)
+[![商業版Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159817378-ae782791-4833-463f-8398-3841e46a07ec.png)](https://amzn.to/3IykBVu) [![商業版ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818201-6de5bf70-9815-4917-b5ca-f25227aac888.png)](https://amzn.to/3IGGJNg)
 
 * [商業版Qt5／Qt6入門 C++編のサポートページ](https://github.com/argama147/qt5qt6cppbook) 
 * [商業版ライブラリを作ろうのサポートページ](https://github.com/argama147/lets_make_library)
