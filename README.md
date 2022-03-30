@@ -6,7 +6,7 @@
 * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
 * YouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」でQtやAndroidを中心にプログラミングに関する情報を発信中。
 
-### [YouTubeチャンネル](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
+### [YouTubeチャンネル](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg) [#ゼッツプログラTV](https://twitter.com/search?q=%23%E3%82%BC%E3%83%83%E3%83%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9TV&src=hashtag_click)
 
 [![ゼッツプログラTV](https://user-images.githubusercontent.com/5881452/159637360-ab2106c8-bb1e-4b5e-8cdd-26d2f8751c1a.png)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
 [ゼッツプログラTVのリポジトリ](https://github.com/argama147/zetprogratv)
