@@ -12,6 +12,11 @@
 [![ゼッツプログラTV](https://user-images.githubusercontent.com/5881452/159637360-ab2106c8-bb1e-4b5e-8cdd-26d2f8751c1a.png)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
 [ゼッツプログラTVのリポジトリ](https://github.com/argama147/zetprogratv)
 
+### Comming Soon ...(技術書典13)
+![qt6_2](https://user-images.githubusercontent.com/5881452/176701593-55045e0e-5fa9-4917-95a1-c0d11644cfa8.png)
+
+独学では学びにくい現場感覚の技術をお届けする予定です！
+
 ### Twitter
 
 [@argama147](https://twitter.com/argama147)
@@ -37,7 +42,6 @@
 納期：著者が出版社に注文後約１週間（5営業日）※初めて著者とやり取りを行う場合は別途時間が掛かる場合があります。
 
 ### argama147（エゥーゴ）の技術同人誌
-
 
 [![Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159818966-ff13d57c-7d37-4d92-a035-74194e1a4c87.png)](https://eugo.booth.pm/items/3045661) [![ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818906-a327cfaf-7c2d-4b55-a9d2-ea57310f6867.png)](https://eugo.booth.pm/items/2368447) [![QtでAndroidアプリを作ろう](https://user-images.githubusercontent.com/5881452/159818978-7c258e18-9dc3-4da3-9f86-00f32e377876.png)](https://eugo.booth.pm/items/1565906) [![家庭で気軽に始めるIoT入門](https://user-images.githubusercontent.com/5881452/159818877-cfd203aa-edf4-4b9f-a1bc-195c275c766e.png)](https://eugo.booth.pm/items/1312558) [![Qt5/C++入門 マルチプラットフォーム開発を始めよう](https://user-images.githubusercontent.com/5881452/159818959-e32b7ff7-fb41-4307-b440-3384455effbf.png)](https://eugo.booth.pm/items/1042093)
 
