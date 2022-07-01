@@ -18,7 +18,7 @@
 ### Comming Soon ...(技術書典13)
 ![qt6_2](https://user-images.githubusercontent.com/5881452/176701593-55045e0e-5fa9-4917-95a1-c0d11644cfa8.png)
 
-独学では学びにくい現場感覚の技術をお届けする予定です！
+Qtの新刊を出す予定です。独学では学びにくい現場感覚の技術をお届けする予定です！
 
 ### Twitter
 
