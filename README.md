@@ -3,9 +3,19 @@
 ### アーガマ(argama147：アーガマワンフォーセブンと呼んでほしい)の略歴
 
 * 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。
-* Qt/C++,Android/Java/Kotlinが主軸技術。C#やVisual C++も書ける。
-* サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
-* YouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」でQtやAndroidを中心にプログラミングに関する情報を発信中。
+* 主な開発経験
+  * Android/Jetpack Compose開発経験：半年
+  * Android/Kotlin開発経験：2年
+  * Android/Java開発経験：6年
+  * Qt/C++開発経験：3年
+  * C#開発：１年
+  * C++開発（デスクトップアプリ開発/フレームワーク開発/プロトコル開発）経験：7.5年
+  * 組み込み開発（C言語/アセンブラ）経験：10年
+
+* 技術同人誌活動
+  * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
+* YouTuber活動
+  * 2021年8月からYouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」を開始。QtやAndroidを中心にプログラミングに関する情報を発信中。
 
 ### アーガマのモットー
 「ないなら自分で作ればいいじゃない」
