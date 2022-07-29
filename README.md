@@ -48,7 +48,7 @@ Qtの新刊を出す予定です。独学では学びにくい現場感覚の技
 ## 著者割
 
 商業本を5部以上まとめてご購入いただく場合、「著者割引」を適用できます。
-送料は別途掛かります。1送付に付き800円から。
+送料は別途掛かります。1送付(1箱)に付き800円から。
 
 お買い求めの際は[@argama147](https://twitter.com/argama147)にご連絡ください。
 [@argama147](https://twitter.com/argama147)から出版社に注文し、出版社から購入者に本を送付する流れになります。
@@ -59,6 +59,10 @@ Qtの新刊を出す予定です。独学では学びにくい現場感覚の技
 納期：著者が出版社に注文後約１週間（5営業日）※初めて著者とやり取りを行う場合は別途時間が掛かる場合があります。
 
 ## argama147（エゥーゴ）の技術同人誌
+
+技術同人誌には電子版（PDF版/EPUB版/Kindle版）と紙版があります。
+
+PFD版と紙版をセットで購入したい方は、[BOOTH](https://eugo.booth.pm/)でご購入いただくか、技術書典イベント開催中の[技術書典オンラインマーケット](https://techbookfest.org/organization/43220004)でご購入ください（[技術書典オンラインマーケット](https://techbookfest.org/organization/43220004)はイベント開催期間外では電子版のみ販売しています）。
 
 [![Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159818966-ff13d57c-7d37-4d92-a035-74194e1a4c87.png)](https://eugo.booth.pm/items/3045661) [![ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818906-a327cfaf-7c2d-4b55-a9d2-ea57310f6867.png)](https://eugo.booth.pm/items/2368447) [![QtでAndroidアプリを作ろう](https://user-images.githubusercontent.com/5881452/159818978-7c258e18-9dc3-4da3-9f86-00f32e377876.png)](https://eugo.booth.pm/items/1565906) [![家庭で気軽に始めるIoT入門](https://user-images.githubusercontent.com/5881452/159818877-cfd203aa-edf4-4b9f-a1bc-195c275c766e.png)](https://eugo.booth.pm/items/1312558) [![Qt5/C++入門 マルチプラットフォーム開発を始めよう](https://user-images.githubusercontent.com/5881452/159818959-e32b7ff7-fb41-4307-b440-3384455effbf.png)](https://eugo.booth.pm/items/1042093)
 
