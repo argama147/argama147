@@ -16,6 +16,9 @@
   * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
 * YouTuber活動
   * 2021年8月からYouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」を開始。QtやAndroidを中心にプログラミングに関する情報を発信中。
+  * 最新の動画
+    *  [![](https://img.youtube.com/vi/_1K5SnSC_eg/0.jpg)](https://www.youtube.com/watch?v=_1K5SnSC_eg)
+
 
 ## アーガマのモットー
 「ないなら自分で作ればいいじゃない」
