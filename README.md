@@ -2,7 +2,8 @@
 
 ## アーガマ(argama147：アーガマワンフォーセブンと呼んでほしい)の略歴
 
-* 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。
+* 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職はAndroid/Kotlinアプリプロジェクト（Jetpack Composeを含む）に参画中。個人開発では、主にQt/C++でアプリを開発中。
+
 * 主な開発経験
   * Android/Jetpack Compose開発経験：半年
   * Android/Kotlin開発経験：2年
@@ -14,14 +15,28 @@
 
 * 技術同人誌活動
   * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
+
 * YouTuber活動
   * 2021年8月からYouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」を開始。QtやAndroidを中心にプログラミングに関する情報を発信中。
   * 最新の動画
     *  [![](https://img.youtube.com/vi/_1K5SnSC_eg/0.jpg)](https://www.youtube.com/watch?v=_1K5SnSC_eg)
 
+* Google Developsers Profile
+
+https://g.dev/argama147
+2022年8月14日に[Anroid Study Jamイベント](https://developers-jp.googleblog.com/2022/06/asj-jp.html)に参加し、Pathwaysを全て消化した。
+
 
 ## アーガマのモットー
-「ないなら自分で作ればいいじゃない」
+「ないなら自分で作れば（やれば）いいじゃない」
+
+自分が好きな技術は廃れてほしくない、発展して欲しい。
+
+しかし「誰かがその技術の本を書いてくれるだろう」、「いい情報を発信してくれだろう」を待っていてもしょうがない。
+
+自分から動いて技術コミュニティに貢献していく。
+
+その為に、開発プロジェクトに参画するだけでなく、プログラミング教育に力を注いでいく。
 
 ## 連絡先
 
