@@ -52,11 +52,6 @@ https://g.dev/argama147
 [![ゼッツプログラTV](https://user-images.githubusercontent.com/5881452/159637360-ab2106c8-bb1e-4b5e-8cdd-26d2f8751c1a.png)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)
 [ゼッツプログラTVのリポジトリ](https://github.com/argama147/zetprogratv)
 
-## Comming Soon ...(技術書典13)
-![Qt5Qt62表紙](https://user-images.githubusercontent.com/5881452/176988330-5dc1b23e-bf95-4bf1-b248-ed3f1a3fddaf.png)
-
-
-Qtの新刊を出す予定です。独学では学びにくい現場感覚の技術をお届けする予定です！
 
 ## argama147の商業本
 
