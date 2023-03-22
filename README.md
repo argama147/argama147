@@ -6,8 +6,8 @@
 
 * 主な開発経験
   * Android/Jetpack Compose開発経験：1年
-  * Android/Kotlin開発経験：2年
-  * Android/Java開発経験：6年
+  * Android/Kotlin開発経験：3年
+  * Android/Java開発経験：7年
   * Qt/C++開発経験：3年
   * C#開発：１年
   * C++開発（デスクトップアプリ開発/フレームワーク開発/プロトコル開発）経験：7.5年
