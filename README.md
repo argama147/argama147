@@ -3,11 +3,11 @@
 * 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職は２０２２年１月からAndroid/Kotlinアプリプロジェクト（Jetpack Composeを含む）に参画中。個人開発では主にQt/C++でアプリを開発中。
 
 * 主な開発経験
-  * Android/Jetpack Compose開発経験：1年
+  * Android/Jetpack Compose開発経験：1.5年
   * Android/Kotlin開発経験：3年
   * Android/Java開発経験：7年
   * Qt/C++開発経験：3年
-  * C#開発：１年
+  * C#開発：1年
   * C++開発（デスクトップアプリ開発/フレームワーク開発/プロトコル開発）経験：7.5年
   * 組み込み開発（C言語/アセンブラ）経験：10年
   * iOS/Swift開発経験：2ヵ月
@@ -54,6 +54,7 @@ https://g.dev/argama147
 
 ## argama147の商業本
 
+技術同人誌として執筆した内容を商業書籍向けに改稿した本です。インプレス NextPublishing様より出版させていただいております。
 [![商業版Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159817378-ae782791-4833-463f-8398-3841e46a07ec.png)](https://amzn.to/3IykBVu) [![商業版ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818201-6de5bf70-9815-4917-b5ca-f25227aac888.png)](https://amzn.to/3IGGJNg)
 
 * [商業版Qt5／Qt6入門 C++編のサポートページ](https://github.com/argama147/qt5qt6cppbook) 
