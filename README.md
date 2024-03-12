@@ -3,9 +3,9 @@
 * 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職は２０２２年１月からAndroid/Kotlinアプリプロジェクト（Jetpack Composeを含む）に参画中。個人開発では主にQt/C++でアプリを開発中。
 
 * 主な開発経験
-  * Android/Jetpack Compose開発経験：1.5年
-  * Android/Kotlin開発経験：3年
-  * Android/Java開発経験：7年
+  * Android/Jetpack Compose開発経験：2年
+  * Android/Kotlin開発経験：4年
+  * Android/Java開発経験：8年
   * Qt/C++開発経験：3年
   * C#開発：1年
   * C++開発（デスクトップアプリ開発/フレームワーク開発/プロトコル開発）経験：7.5年
@@ -16,10 +16,8 @@
 * 技術同人誌活動
   * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
 
-* YouTuber活動
+* YouTuber活動(休止中)
   * 2021年8月からYouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」を開始。QtやAndroidを中心にプログラミングに関する情報を発信中。
-  * 最新の動画
-    *  [![](https://img.youtube.com/vi/_1K5SnSC_eg/0.jpg)](https://www.youtube.com/watch?v=_1K5SnSC_eg)
 
 * Google Developsers Profile
 
