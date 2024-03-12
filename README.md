@@ -21,9 +21,9 @@
 
 * Google Developsers Profile
 
-https://g.dev/argama147
+  * https://g.dev/argama147
 
-2022年8月14日に[Anroid Study Jamイベント](https://developers-jp.googleblog.com/2022/06/asj-jp.html)に参加し、Pathwaysを全て消化した。
+  * 2022年8月14日に[Anroid Study Jamイベント](https://developers-jp.googleblog.com/2022/06/asj-jp.html)に参加し、Pathwaysを全て消化した。
 
 
 ## アーガマのモットー
