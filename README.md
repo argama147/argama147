@@ -3,9 +3,9 @@
 * 開発経験20年のフリーランスSE兼YouTuber。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職は２０２２年１月からAndroid/Kotlinアプリプロジェクト（Jetpack Composeを含む）に参画中。個人開発では主にQt/C++でアプリを開発中。
 
 * 主な開発経験
-  * Android/Jetpack Compose開発経験：2年
-  * Android/Kotlin開発経験：4年
-  * Android/Java開発経験：8年
+  * Android/Jetpack Compose開発経験：4年
+  * Android/Kotlin開発経験：5年
+  * Android/Java開発経験：10年
   * Qt/C++開発経験：3年
   * C#開発：1年
   * C++開発（デスクトップアプリ開発/フレームワーク開発/プロトコル開発）経験：7.5年
