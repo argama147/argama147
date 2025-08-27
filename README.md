@@ -3,7 +3,7 @@
 * 開発経験25年のフリーランスSE。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職はAndroid Naviveアプリ案件に参画中。個人開発ではClaudeを活用を模索中。KMP勉強中。
 
 * 主な開発経験
-  * Android/Jetpack Compose開発経験：6年
+  * Android/Jetpack Compose開発経験：4年
   * Android/Kotlin開発経験：7年
   * Android/Java開発経験：12年
   * Qt/C++開発経験：3年
