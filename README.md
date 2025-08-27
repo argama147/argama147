@@ -39,7 +39,7 @@
 
 ## 連絡先
 
-### Twitter
+### X(旧Twitter)
 
 [@argama147](https://twitter.com/argama147)
 
