@@ -79,19 +79,17 @@ PFD版と紙版をセットで購入したい方は、[BOOTH](https://eugo.booth
 
 [![Qt5／Qt6入門 C++編](https://user-images.githubusercontent.com/5881452/159818966-ff13d57c-7d37-4d92-a035-74194e1a4c87.png)](https://eugo.booth.pm/items/3045661) [![ライブラリを作ろう](https://user-images.githubusercontent.com/5881452/159818906-a327cfaf-7c2d-4b55-a9d2-ea57310f6867.png)](https://eugo.booth.pm/items/2368447) [![QtでAndroidアプリを作ろう](https://user-images.githubusercontent.com/5881452/159818978-7c258e18-9dc3-4da3-9f86-00f32e377876.png)](https://eugo.booth.pm/items/1565906) [![家庭で気軽に始めるIoT入門](https://user-images.githubusercontent.com/5881452/159818877-cfd203aa-edf4-4b9f-a1bc-195c275c766e.png)](https://eugo.booth.pm/items/1312558) [![Qt5/C++入門 マルチプラットフォーム開発を始めよう](https://user-images.githubusercontent.com/5881452/159818959-e32b7ff7-fb41-4307-b440-3384455effbf.png)](https://eugo.booth.pm/items/1042093)
 
-* Qt5/Qt6入門 C++編([BOOTH](https://eugo.booth.pm/items/3045661))([技術書典](https://techbookfest.org/product/4534960490807296?productVariantID=5472816721821696))([とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030915696/))([サポートページ](https://github.com/argama147/qt6cppbook))
-* ライブラリを作ろう([BOOTH](https://eugo.booth.pm/items/2368447))([技術書典](https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976))([とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030858035/))([サポートページ](https://github.com/argama147/make_library))
-* QtでAndroidアプリを作ろう([BOOTH](https://eugo.booth.pm/items/1565906))([技術書典](https://techbookfest.org/product/6496391299858432?productVariantID=5787566540324864))([Amazon](https://www.amazon.co.jp/Qt%E3%81%A7Android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-argama147-ebook/dp/B07Y8PQVC6/ref=sr_1_1?qid=1648018575&refinements=p_27%3Aargama147&s=digital-text&sr=1-1&text=argama147))([BOOK WALKER](https://bookwalker.jp/de83161327-8a32-4a41-9709-5cb9ce1438a8/))([サポートページ](https://github.com/argama147/qt-android))
+* Qt5/Qt6入門 C++編([BOOTH](https://eugo.booth.pm/items/3045661))([技術書典](https://techbookfest.org/product/4534960490807296?productVariantID=5472816721821696))([サポートページ](https://github.com/argama147/qt6cppbook))
+* ライブラリを作ろう([BOOTH](https://eugo.booth.pm/items/2368447))([技術書典](https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976))([サポートページ](https://github.com/argama147/make_library))
+* QtでAndroidアプリを作ろう([BOOTH](https://eugo.booth.pm/items/1565906))([技術書典](https://techbookfest.org/product/6496391299858432?productVariantID=5787566540324864))([Amazon](https://www.amazon.co.jp/Qt%E3%81%A7Android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-argama147-ebook/dp/B07Y8PQVC6/ref=sr_1_1?qid=1648018575&refinements=p_27%3Aargama147&s=digital-text&sr=1-1&text=argama147))([サポートページ](https://github.com/argama147/qt-android))
 * 家庭で気軽に始めるIoT入門([BOOTH](https://eugo.booth.pm/items/1312558))([技術書典](https://techbookfest.org/product/4977750322446336?productVariantID=5659216549249024))([サポートページ](https://github.com/argama147/iotfirststep))
-* Qt5/C++入門 マルチプラットフォーム開発を始めよう([BOOTH](https://eugo.booth.pm/items/1042093))([技術書典](https://techbookfest.org/product/4924540912140288?productVariantID=6365386482122752))([とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030858034/))([サポートページ](https://github.com/argama147/qt5cppfirststep))
+* Qt5/C++入門 マルチプラットフォーム開発を始めよう([BOOTH](https://eugo.booth.pm/items/1042093))([技術書典](https://techbookfest.org/product/4924540912140288?productVariantID=6365386482122752))([サポートページ](https://github.com/argama147/qt5cppfirststep))
 
 ## エゥーゴの技術同人誌を扱っているサイト
 
 * [BOOTH](https://eugo.booth.pm/)
 * [技術書典オンラインマーケット](https://techbookfest.org/organization/43220004)
 * [Amazon](https://www.amazon.co.jp/s?i=digital-text&rh=p_27%3Aargama147&s=relevancerank&text=argama147&ref=dp_byline_sr_ebooks_1)
-* [とらのあな](https://ecs.toranoana.jp/tora/ec/cot/circle/2UPA2C6Q8V7Md06Pd687/all/)
-* [BOOK WALKER](https://bookwalker.jp/author/139363/)
 
 ## Amazonアソシエイトについて
 当サイト「ゼッツプログラTV」はAmazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、Amazonアソシエイト・プログラムの参加者です。
