@@ -2,7 +2,7 @@
 * HN(ハンドルネーム): アーガマ or argama147
 * 開発経験25年のフリーランスSE。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職はAndroid Naviveアプリ案件に参画中。個人開発ではClaudeを活用を模索中。KMP勉強中。
 
-# Claudeを使用した開発リポジトリ
+# Claude Codeを使用した開発リポジトリ
 - https://github.com/argama147/daily-todo-management
 
 
