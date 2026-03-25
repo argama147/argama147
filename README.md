@@ -1,8 +1,13 @@
 # アーガマの略歴
-* HN(ハンドルネーム): アーガマ or argama147(アーガマワンフォーセブンと呼んでほしい)
+* HN(ハンドルネーム): アーガマ or argama147
 * 開発経験25年のフリーランスSE。組み込み開発からキャリアをスタートし、モバイル向けアプリ開発、業務向けデスクトップアプリ開発を中心にソフトウェア開発を経験。本職はAndroid Naviveアプリ案件に参画中。個人開発ではClaudeを活用を模索中。KMP勉強中。
 
-* 主な開発経験
+# Claudeを使用した開発リポジトリ
+- https://github.com/argama147/daily-todo-management
+
+
+# 主な開発経験
+
   * Android/Jetpack Compose開発経験：4年
   * Android/Kotlin開発経験：7年
   * Android/Java開発経験：12年
@@ -13,13 +18,13 @@
   * iOS/Swift開発経験：2ヵ月
   * GAS(Google Apps Script)開発経験：2Week
 
-* 技術同人誌活動
+# 技術同人誌活動
   * サークル「[エゥーゴ](https://eugo.booth.pm/)」として、技術同人誌を5冊執筆し、その内2冊は商業化した。
 
-* YouTuber活動(休止中)
+# YouTuber活動(休止中)
   * 2021年8月からYouTubeチャンネル「[ゼッツプログラTV(Zet's Programming TV)](https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg)」を開始。QtやAndroidを中心にプログラミングに関する情報を発信中。
 
-* Google Developsers Profile
+# Google Developsers Profile
 
   * https://g.dev/argama147
 
