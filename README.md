@@ -8,6 +8,7 @@
 
 # 主な開発経験
 
+  * Claude CodeでAndroidアプリやWebアプリを開発中（1年目）
   * Android/Jetpack Compose開発経験：4年
   * Android/Kotlin開発経験：7年
   * Android/Java開発経験：12年
